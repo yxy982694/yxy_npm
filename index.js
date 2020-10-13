@@ -1,5 +1,6 @@
-const {sum,mul} = require('./src/model')
+const {sum,mul,sub} = require('./src/model')
 module.exports = {
     sum,
-    mul
+    mul,
+    sub
 }

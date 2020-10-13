@@ -10,4 +10,5 @@ npm i -g yxy_npm
 const {sum,mul} = require('yxy_npm')
 sum(2,3) 求和
 mul(3,4)求积
+sub(5,3)求差
 ```
